@@ -1,0 +1,61 @@
+epoch:0
+train: ce loss: 2.5119, l2 loss: 1.3389, hash_loss: 0.0527, accuracy: 0.4440
+test: loss: 2.0946, accuracy: 0.5072
+epoch:1
+train: ce loss: 2.4078, l2 loss: 1.3553, hash_loss: 0.0530, accuracy: 0.4633
+test: loss: 2.0754, accuracy: 0.5134
+epoch:0
+train: ce loss: 2.5093, l2 loss: 1.3421, hash_loss: 0.0528, accuracy: 0.4446
+test: loss: 2.0715, accuracy: 0.5160
+epoch:1
+train: ce loss: 2.4134, l2 loss: 1.3573, hash_loss: 0.0530, accuracy: 0.4620
+test: loss: 2.0623, accuracy: 0.5175
+epoch:2
+train: ce loss: 2.3958, l2 loss: 1.3465, hash_loss: 0.0531, accuracy: 0.4658
+test: loss: 2.0486, accuracy: 0.5195
+epoch:3
+train: ce loss: 2.4003, l2 loss: 1.3392, hash_loss: 0.0530, accuracy: 0.4641
+test: loss: 2.1104, accuracy: 0.5081
+epoch:4
+train: ce loss: 2.3970, l2 loss: 1.3298, hash_loss: 0.0530, accuracy: 0.4651
+test: loss: 2.0429, accuracy: 0.5240
+epoch:5
+train: ce loss: 2.3893, l2 loss: 1.3223, hash_loss: 0.0529, accuracy: 0.4663
+test: loss: 2.0580, accuracy: 0.5184
+epoch:6
+train: ce loss: 2.3853, l2 loss: 1.3130, hash_loss: 0.0528, accuracy: 0.4679
+test: loss: 1.9939, accuracy: 0.5305
+epoch:7
+train: ce loss: 2.3794, l2 loss: 1.3052, hash_loss: 0.0527, accuracy: 0.4683
+test: loss: 2.0159, accuracy: 0.5272
+epoch:8
+train: ce loss: 2.3680, l2 loss: 1.2948, hash_loss: 0.0526, accuracy: 0.4714
+test: loss: 2.0236, accuracy: 0.5252
+epoch:9
+train: ce loss: 2.3569, l2 loss: 1.2866, hash_loss: 0.0524, accuracy: 0.4723
+test: loss: 2.0160, accuracy: 0.5272
+epoch:10
+train: ce loss: 2.3448, l2 loss: 1.2741, hash_loss: 0.0522, accuracy: 0.4746
+test: loss: 2.0173, accuracy: 0.5274
+epoch:11
+train: ce loss: 2.3293, l2 loss: 1.2616, hash_loss: 0.0520, accuracy: 0.4787
+test: loss: 1.9981, accuracy: 0.5288
+epoch:12
+train: ce loss: 2.3145, l2 loss: 1.2510, hash_loss: 0.0517, accuracy: 0.4818
+test: loss: 2.0303, accuracy: 0.5219
+epoch:13
+train: ce loss: 2.2993, l2 loss: 1.2380, hash_loss: 0.0516, accuracy: 0.4845
+test: loss: 1.9563, accuracy: 0.5387
+epoch:14
+train: ce loss: 2.2827, l2 loss: 1.2260, hash_loss: 0.0513, accuracy: 0.4871
+test: loss: 1.9190, accuracy: 0.5443
+epoch:15
+train: ce loss: 2.2661, l2 loss: 1.2123, hash_loss: 0.0511, accuracy: 0.4909
+test: loss: 1.9483, accuracy: 0.5399
+epoch:16
+train: ce loss: 2.2443, l2 loss: 1.1961, hash_loss: 0.0508, accuracy: 0.4952
+test: loss: 1.9305, accuracy: 0.5444
+epoch:17
+train: ce loss: 2.2229, l2 loss: 1.1817, hash_loss: 0.0506, accuracy: 0.4994
+test: loss: 1.8667, accuracy: 0.5577
+epoch:0
