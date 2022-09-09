@@ -1,0 +1,300 @@
+epoch:0
+train: ce loss: 2.7132, l2 loss: 1.1551, hash_loss: 0.1633, accuracy: 0.4134
+test: loss: 2.2974, accuracy: 0.4720
+epoch:1
+train: ce loss: 2.1680, l2 loss: 1.2579, hash_loss: 0.1408, accuracy: 0.5048
+test: loss: 2.1051, accuracy: 0.5101
+epoch:2
+train: ce loss: 2.0856, l2 loss: 1.2848, hash_loss: 0.1304, accuracy: 0.5211
+test: loss: 2.2824, accuracy: 0.4816
+epoch:3
+train: ce loss: 2.0564, l2 loss: 1.2997, hash_loss: 0.1234, accuracy: 0.5266
+test: loss: 1.9840, accuracy: 0.5362
+epoch:4
+train: ce loss: 2.0403, l2 loss: 1.3066, hash_loss: 0.1182, accuracy: 0.5300
+test: loss: 2.0953, accuracy: 0.5131
+epoch:5
+train: ce loss: 2.0269, l2 loss: 1.3140, hash_loss: 0.1142, accuracy: 0.5327
+test: loss: 2.0126, accuracy: 0.5302
+epoch:6
+train: ce loss: 2.0156, l2 loss: 1.3165, hash_loss: 0.1109, accuracy: 0.5350
+test: loss: 2.3610, accuracy: 0.4718
+epoch:7
+train: ce loss: 2.0095, l2 loss: 1.3215, hash_loss: 0.1082, accuracy: 0.5360
+test: loss: 2.0577, accuracy: 0.5225
+epoch:8
+train: ce loss: 2.0010, l2 loss: 1.3232, hash_loss: 0.1058, accuracy: 0.5383
+test: loss: 2.0703, accuracy: 0.5184
+epoch:9
+train: ce loss: 1.9947, l2 loss: 1.3236, hash_loss: 0.1038, accuracy: 0.5395
+test: loss: 2.2819, accuracy: 0.4838
+epoch:10
+train: ce loss: 1.9896, l2 loss: 1.3252, hash_loss: 0.1020, accuracy: 0.5405
+test: loss: 2.1305, accuracy: 0.5098
+epoch:11
+train: ce loss: 1.9825, l2 loss: 1.3261, hash_loss: 0.1004, accuracy: 0.5415
+test: loss: 2.0824, accuracy: 0.5150
+epoch:12
+train: ce loss: 1.9769, l2 loss: 1.3245, hash_loss: 0.0989, accuracy: 0.5431
+test: loss: 2.2199, accuracy: 0.4920
+epoch:13
+train: ce loss: 1.9697, l2 loss: 1.3245, hash_loss: 0.0976, accuracy: 0.5442
+test: loss: 2.3702, accuracy: 0.4703
+epoch:14
+train: ce loss: 1.9645, l2 loss: 1.3220, hash_loss: 0.0963, accuracy: 0.5453
+test: loss: 2.1125, accuracy: 0.5137
+epoch:15
+train: ce loss: 1.9588, l2 loss: 1.3196, hash_loss: 0.0953, accuracy: 0.5467
+test: loss: 1.9587, accuracy: 0.5405
+epoch:16
+train: ce loss: 1.9512, l2 loss: 1.3183, hash_loss: 0.0941, accuracy: 0.5481
+test: loss: 2.1192, accuracy: 0.5121
+epoch:17
+train: ce loss: 1.9446, l2 loss: 1.3131, hash_loss: 0.0931, accuracy: 0.5495
+test: loss: 1.9858, accuracy: 0.5350
+epoch:18
+train: ce loss: 1.9393, l2 loss: 1.3126, hash_loss: 0.0921, accuracy: 0.5506
+test: loss: 2.2266, accuracy: 0.4916
+epoch:19
+train: ce loss: 1.9323, l2 loss: 1.3084, hash_loss: 0.0913, accuracy: 0.5525
+test: loss: 1.9881, accuracy: 0.5364
+epoch:20
+train: ce loss: 1.9267, l2 loss: 1.3065, hash_loss: 0.0903, accuracy: 0.5533
+test: loss: 2.1380, accuracy: 0.5151
+epoch:21
+train: ce loss: 1.9168, l2 loss: 1.3012, hash_loss: 0.0895, accuracy: 0.5556
+test: loss: 1.9370, accuracy: 0.5427
+epoch:22
+train: ce loss: 1.9098, l2 loss: 1.2965, hash_loss: 0.0887, accuracy: 0.5564
+test: loss: 2.2278, accuracy: 0.4954
+epoch:23
+train: ce loss: 1.9036, l2 loss: 1.2898, hash_loss: 0.0879, accuracy: 0.5581
+test: loss: 2.1786, accuracy: 0.5035
+epoch:24
+train: ce loss: 1.8935, l2 loss: 1.2857, hash_loss: 0.0871, accuracy: 0.5601
+test: loss: 1.9753, accuracy: 0.5374
+epoch:25
+train: ce loss: 1.8875, l2 loss: 1.2801, hash_loss: 0.0863, accuracy: 0.5609
+test: loss: 1.9681, accuracy: 0.5404
+epoch:26
+train: ce loss: 1.8795, l2 loss: 1.2741, hash_loss: 0.0856, accuracy: 0.5629
+test: loss: 2.1823, accuracy: 0.5032
+epoch:27
+train: ce loss: 1.8682, l2 loss: 1.2675, hash_loss: 0.0848, accuracy: 0.5647
+test: loss: 1.8540, accuracy: 0.5614
+epoch:28
+train: ce loss: 1.8586, l2 loss: 1.2619, hash_loss: 0.0841, accuracy: 0.5667
+test: loss: 1.8686, accuracy: 0.5610
+epoch:29
+train: ce loss: 1.8478, l2 loss: 1.2568, hash_loss: 0.0834, accuracy: 0.5687
+test: loss: 2.3399, accuracy: 0.4741
+epoch:30
+train: ce loss: 1.8412, l2 loss: 1.2489, hash_loss: 0.0828, accuracy: 0.5703
+test: loss: 1.7813, accuracy: 0.5730
+epoch:31
+train: ce loss: 1.8317, l2 loss: 1.2406, hash_loss: 0.0821, accuracy: 0.5721
+test: loss: 1.9420, accuracy: 0.5450
+epoch:32
+train: ce loss: 1.8232, l2 loss: 1.2348, hash_loss: 0.0814, accuracy: 0.5743
+test: loss: 1.9905, accuracy: 0.5349
+epoch:33
+train: ce loss: 1.8115, l2 loss: 1.2262, hash_loss: 0.0808, accuracy: 0.5764
+test: loss: 1.7767, accuracy: 0.5769
+epoch:34
+train: ce loss: 1.8008, l2 loss: 1.2192, hash_loss: 0.0802, accuracy: 0.5784
+test: loss: 1.8392, accuracy: 0.5638
+epoch:35
+train: ce loss: 1.7887, l2 loss: 1.2077, hash_loss: 0.0795, accuracy: 0.5812
+test: loss: 1.8875, accuracy: 0.5581
+epoch:36
+train: ce loss: 1.7785, l2 loss: 1.2005, hash_loss: 0.0790, accuracy: 0.5831
+test: loss: 1.9367, accuracy: 0.5458
+epoch:37
+train: ce loss: 1.7651, l2 loss: 1.1916, hash_loss: 0.0784, accuracy: 0.5860
+test: loss: 1.7306, accuracy: 0.5867
+epoch:38
+train: ce loss: 1.7551, l2 loss: 1.1831, hash_loss: 0.0778, accuracy: 0.5881
+test: loss: 1.7985, accuracy: 0.5726
+epoch:39
+train: ce loss: 1.7452, l2 loss: 1.1741, hash_loss: 0.0772, accuracy: 0.5900
+test: loss: 1.8786, accuracy: 0.5595
+epoch:40
+train: ce loss: 1.7313, l2 loss: 1.1647, hash_loss: 0.0767, accuracy: 0.5928
+test: loss: 1.8893, accuracy: 0.5595
+epoch:41
+train: ce loss: 1.7186, l2 loss: 1.1541, hash_loss: 0.0760, accuracy: 0.5953
+test: loss: 1.8085, accuracy: 0.5732
+epoch:42
+train: ce loss: 1.7055, l2 loss: 1.1438, hash_loss: 0.0755, accuracy: 0.5982
+test: loss: 1.7292, accuracy: 0.5871
+epoch:43
+train: ce loss: 1.6916, l2 loss: 1.1329, hash_loss: 0.0750, accuracy: 0.6008
+test: loss: 1.7737, accuracy: 0.5822
+epoch:44
+train: ce loss: 1.6808, l2 loss: 1.1227, hash_loss: 0.0744, accuracy: 0.6029
+test: loss: 1.6844, accuracy: 0.5986
+epoch:45
+train: ce loss: 1.6644, l2 loss: 1.1112, hash_loss: 0.0739, accuracy: 0.6068
+test: loss: 1.6878, accuracy: 0.5951
+epoch:46
+train: ce loss: 1.6506, l2 loss: 1.1005, hash_loss: 0.0734, accuracy: 0.6092
+test: loss: 1.7226, accuracy: 0.5896
+epoch:47
+train: ce loss: 1.6381, l2 loss: 1.0894, hash_loss: 0.0729, accuracy: 0.6124
+test: loss: 1.7398, accuracy: 0.5879
+epoch:48
+train: ce loss: 1.6228, l2 loss: 1.0769, hash_loss: 0.0724, accuracy: 0.6160
+test: loss: 1.5777, accuracy: 0.6175
+epoch:49
+train: ce loss: 1.6061, l2 loss: 1.0659, hash_loss: 0.0719, accuracy: 0.6185
+test: loss: 1.7075, accuracy: 0.5945
+epoch:50
+train: ce loss: 1.5901, l2 loss: 1.0534, hash_loss: 0.0714, accuracy: 0.6220
+test: loss: 1.5570, accuracy: 0.6210
+epoch:51
+train: ce loss: 1.5738, l2 loss: 1.0401, hash_loss: 0.0709, accuracy: 0.6255
+test: loss: 1.7738, accuracy: 0.5802
+epoch:52
+train: ce loss: 1.5576, l2 loss: 1.0275, hash_loss: 0.0705, accuracy: 0.6289
+test: loss: 1.6532, accuracy: 0.6033
+epoch:53
+train: ce loss: 1.5455, l2 loss: 1.0156, hash_loss: 0.0701, accuracy: 0.6315
+test: loss: 1.6807, accuracy: 0.5980
+epoch:54
+train: ce loss: 1.5278, l2 loss: 1.0029, hash_loss: 0.0697, accuracy: 0.6356
+test: loss: 1.6545, accuracy: 0.6047
+epoch:55
+train: ce loss: 1.5105, l2 loss: 0.9894, hash_loss: 0.0692, accuracy: 0.6388
+test: loss: 1.7048, accuracy: 0.5946
+epoch:56
+train: ce loss: 1.4941, l2 loss: 0.9757, hash_loss: 0.0688, accuracy: 0.6425
+test: loss: 1.5265, accuracy: 0.6288
+epoch:57
+train: ce loss: 1.4740, l2 loss: 0.9619, hash_loss: 0.0684, accuracy: 0.6469
+test: loss: 1.6948, accuracy: 0.6008
+epoch:58
+train: ce loss: 1.4593, l2 loss: 0.9494, hash_loss: 0.0681, accuracy: 0.6500
+test: loss: 1.4802, accuracy: 0.6382
+epoch:59
+train: ce loss: 1.4385, l2 loss: 0.9352, hash_loss: 0.0677, accuracy: 0.6543
+test: loss: 1.5448, accuracy: 0.6254
+epoch:60
+train: ce loss: 1.4215, l2 loss: 0.9213, hash_loss: 0.0674, accuracy: 0.6577
+test: loss: 1.4995, accuracy: 0.6353
+epoch:61
+train: ce loss: 1.4037, l2 loss: 0.9070, hash_loss: 0.0670, accuracy: 0.6615
+test: loss: 1.4342, accuracy: 0.6490
+epoch:62
+train: ce loss: 1.3856, l2 loss: 0.8925, hash_loss: 0.0667, accuracy: 0.6659
+test: loss: 1.5080, accuracy: 0.6363
+epoch:63
+train: ce loss: 1.3652, l2 loss: 0.8782, hash_loss: 0.0664, accuracy: 0.6700
+test: loss: 1.5164, accuracy: 0.6329
+epoch:64
+train: ce loss: 1.3447, l2 loss: 0.8634, hash_loss: 0.0660, accuracy: 0.6750
+test: loss: 1.4307, accuracy: 0.6500
+epoch:65
+train: ce loss: 1.3279, l2 loss: 0.8490, hash_loss: 0.0658, accuracy: 0.6786
+test: loss: 1.4603, accuracy: 0.6467
+epoch:66
+train: ce loss: 1.3070, l2 loss: 0.8342, hash_loss: 0.0655, accuracy: 0.6829
+test: loss: 1.3355, accuracy: 0.6715
+epoch:67
+train: ce loss: 1.2845, l2 loss: 0.8194, hash_loss: 0.0652, accuracy: 0.6879
+test: loss: 1.3546, accuracy: 0.6666
+epoch:68
+train: ce loss: 1.2642, l2 loss: 0.8050, hash_loss: 0.0650, accuracy: 0.6921
+test: loss: 1.4024, accuracy: 0.6563
+epoch:69
+train: ce loss: 1.2435, l2 loss: 0.7904, hash_loss: 0.0647, accuracy: 0.6971
+test: loss: 1.2786, accuracy: 0.6826
+epoch:70
+train: ce loss: 1.2238, l2 loss: 0.7758, hash_loss: 0.0645, accuracy: 0.7011
+test: loss: 1.2581, accuracy: 0.6878
+epoch:71
+train: ce loss: 1.2012, l2 loss: 0.7612, hash_loss: 0.0643, accuracy: 0.7063
+test: loss: 1.2745, accuracy: 0.6832
+epoch:72
+train: ce loss: 1.1762, l2 loss: 0.7464, hash_loss: 0.0640, accuracy: 0.7120
+test: loss: 1.2186, accuracy: 0.6970
+epoch:73
+train: ce loss: 1.1548, l2 loss: 0.7318, hash_loss: 0.0638, accuracy: 0.7168
+test: loss: 1.2156, accuracy: 0.6956
+epoch:74
+train: ce loss: 1.1327, l2 loss: 0.7172, hash_loss: 0.0636, accuracy: 0.7216
+test: loss: 1.2091, accuracy: 0.6986
+epoch:75
+train: ce loss: 1.1088, l2 loss: 0.7028, hash_loss: 0.0635, accuracy: 0.7269
+test: loss: 1.2123, accuracy: 0.6997
+epoch:76
+train: ce loss: 1.0853, l2 loss: 0.6884, hash_loss: 0.0633, accuracy: 0.7324
+test: loss: 1.2147, accuracy: 0.6984
+epoch:77
+train: ce loss: 1.0597, l2 loss: 0.6744, hash_loss: 0.0632, accuracy: 0.7382
+test: loss: 1.1471, accuracy: 0.7137
+epoch:78
+train: ce loss: 1.0355, l2 loss: 0.6608, hash_loss: 0.0630, accuracy: 0.7440
+test: loss: 1.1415, accuracy: 0.7121
+epoch:79
+train: ce loss: 1.0115, l2 loss: 0.6474, hash_loss: 0.0629, accuracy: 0.7491
+test: loss: 1.1554, accuracy: 0.7114
+epoch:80
+train: ce loss: 0.9830, l2 loss: 0.6344, hash_loss: 0.0628, accuracy: 0.7557
+test: loss: 1.1129, accuracy: 0.7189
+epoch:81
+train: ce loss: 0.9590, l2 loss: 0.6217, hash_loss: 0.0627, accuracy: 0.7617
+test: loss: 1.1059, accuracy: 0.7232
+epoch:82
+train: ce loss: 0.9315, l2 loss: 0.6095, hash_loss: 0.0626, accuracy: 0.7680
+test: loss: 1.1095, accuracy: 0.7217
+epoch:83
+train: ce loss: 0.9067, l2 loss: 0.5979, hash_loss: 0.0625, accuracy: 0.7740
+test: loss: 1.0406, accuracy: 0.7380
+epoch:84
+train: ce loss: 0.8779, l2 loss: 0.5870, hash_loss: 0.0624, accuracy: 0.7807
+test: loss: 1.0447, accuracy: 0.7368
+epoch:85
+train: ce loss: 0.8522, l2 loss: 0.5768, hash_loss: 0.0624, accuracy: 0.7866
+test: loss: 1.0367, accuracy: 0.7379
+epoch:86
+train: ce loss: 0.8279, l2 loss: 0.5674, hash_loss: 0.0623, accuracy: 0.7928
+test: loss: 1.0135, accuracy: 0.7430
+epoch:87
+train: ce loss: 0.8027, l2 loss: 0.5588, hash_loss: 0.0623, accuracy: 0.7986
+test: loss: 1.0071, accuracy: 0.7447
+epoch:88
+train: ce loss: 0.7793, l2 loss: 0.5512, hash_loss: 0.0622, accuracy: 0.8045
+test: loss: 0.9924, accuracy: 0.7475
+epoch:89
+train: ce loss: 0.7556, l2 loss: 0.5446, hash_loss: 0.0622, accuracy: 0.8104
+test: loss: 0.9891, accuracy: 0.7503
+epoch:90
+train: ce loss: 0.7348, l2 loss: 0.5389, hash_loss: 0.0622, accuracy: 0.8153
+test: loss: 0.9811, accuracy: 0.7506
+epoch:91
+train: ce loss: 0.7166, l2 loss: 0.5343, hash_loss: 0.0622, accuracy: 0.8199
+test: loss: 0.9711, accuracy: 0.7547
+epoch:92
+train: ce loss: 0.6997, l2 loss: 0.5306, hash_loss: 0.0621, accuracy: 0.8241
+test: loss: 0.9651, accuracy: 0.7550
+epoch:93
+train: ce loss: 0.6843, l2 loss: 0.5278, hash_loss: 0.0621, accuracy: 0.8282
+test: loss: 0.9604, accuracy: 0.7563
+epoch:94
+train: ce loss: 0.6738, l2 loss: 0.5259, hash_loss: 0.0621, accuracy: 0.8308
+test: loss: 0.9551, accuracy: 0.7576
+epoch:95
+train: ce loss: 0.6650, l2 loss: 0.5247, hash_loss: 0.0621, accuracy: 0.8332
+test: loss: 0.9527, accuracy: 0.7586
+epoch:96
+train: ce loss: 0.6588, l2 loss: 0.5240, hash_loss: 0.0621, accuracy: 0.8346
+test: loss: 0.9524, accuracy: 0.7575
+epoch:97
+train: ce loss: 0.6545, l2 loss: 0.5238, hash_loss: 0.0621, accuracy: 0.8356
+test: loss: 0.9510, accuracy: 0.7589
+epoch:98
+train: ce loss: 0.6541, l2 loss: 0.5237, hash_loss: 0.0621, accuracy: 0.8361
+test: loss: 0.9511, accuracy: 0.7587
+epoch:99
+train: ce loss: 0.6537, l2 loss: 0.5237, hash_loss: 0.0621, accuracy: 0.8360
+test: loss: 0.9512, accuracy: 0.7588
